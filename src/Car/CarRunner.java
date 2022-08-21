@@ -46,6 +46,7 @@ public class CarRunner {
          //Sözün bittiği yer....
 
         //Please pray for me to God !!!
+        //Be sure that God hears u everytime :)
 
     }
 }
