@@ -32,16 +32,18 @@ public class CarRunner {
         System.out.println("Arabanin rengi : "+ car1.kleur);
         System.out.println("Arabanin kilometresi : "+ car1.kilometer);
         car1.stop();
-          //bu bizim ilk colobration.Allah nazarlardan saklasın
+         //
+         //
+         //bu bizim ilk colobration.Allah nazarlardan saklasın
          // Suan  remote da yaziyorum.
          // Bu proje cigir acacak, bizim icin kucuk insanlik icin buyk bir adim
-        // 3 ayda yazilim sektoruna bodozlama giris yaptik!!
-        //Hadi hayırlısı!!!
-
-        //Conflist deneme 1
-
-
-
+         // 3 ayda yazilim sektoruna bodozlama giris yaptik!!
+         //Hadi hayırlısı!!!
+         //Conflist deneme 1
+         //
+         //
+         //Conflict denemesi2
+         //
 
     }
 }
